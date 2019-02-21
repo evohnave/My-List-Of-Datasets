@@ -1,3 +1,43 @@
+More Adds By Me  
+===============  
+
+Kaggle Datasets  
+---------------  
+
+* Kaggle:  https://www.kaggle.com/datasets  
+
+Amazon Datasets  
+---------------  
+
+* Amazon: https://registry.opendata.aws/  
+
+UCI Machine Learning Repository  
+-------------------------------  
+
+* UCI: https://archive.ics.uci.edu/ml/  
+
+Google Dataset Search Engine (beta)  
+-----------------------------------  
+
+* https://toolbox.google.com/datasetsearch  
+
+Microsoft Datasets  
+------------------  
+
+* https://msropendata.com/  
+
+Misc  
+----  
+
+* EU Open Data Portal: https://data.europa.eu/euodp/data/dataset  
+* Data.gov:  https://www.data.gov  
+* New Zealand:  https://catalogue.data.govt.nz/dataset  
+* India:  https://data.gov.in
+* Northern Ireland:  https://www.opendatani.gov.uk
+
+
+
+
 Awesome Public Datasets
 =======================
 
