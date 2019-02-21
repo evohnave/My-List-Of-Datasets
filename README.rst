@@ -35,8 +35,10 @@ Misc
 * India:  https://data.gov.in
 * Northern Ireland:  https://www.opendatani.gov.uk
 
+VisualData Search Engine  
+------------------------  
 
-
+* https://www.visualdata.io/  
 
 Awesome Public Datasets
 =======================
